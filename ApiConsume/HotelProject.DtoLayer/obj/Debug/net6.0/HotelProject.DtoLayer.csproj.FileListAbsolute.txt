@@ -1,0 +1,17 @@
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.deps.json
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.runtimeconfig.json
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.dll
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.DtoLayer.pdb
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.EntityLayer.dll
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\bin\Debug\net6.0\HotelProject.EntityLayer.pdb
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.csproj.AssemblyReference.cache
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.AssemblyInfoInputs.cache
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.AssemblyInfo.cs
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.csproj.CoreCompileInputs.cache
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.csproj.CopyComplete
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.dll
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\refint\HotelProject.DtoLayer.dll
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.pdb
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.genruntimeconfig.cache
+C:\PERSONAL\rapid-api-project\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\ref\HotelProject.DtoLayer.dll
